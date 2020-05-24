@@ -11,4 +11,4 @@
 - Sigmoid is used for multi-label classification, whereas softmax is used for multi-class classification.
 - Sotmax output is a probability vector that shows the probability of assigning the input of classifier to each of the output classes.
 - Cross-entropy loss can  be applied to the softmax output in order to measure the difference between the predicted (i.e., classifiers' scores) probability and the true (i.e. one-hot-encoding of the label) probability. 
-- Sigmoid output can be considered as a binary probability distribution which shows the probability of class 'y' and class 'not y'.
+- Sigmoid output can be considered as a binary probability distribution which shows the probability of class 'y' and class 'not y' (i.e., 1-y).
