@@ -14,7 +14,7 @@
 - Sigmoid output can be considered as a binary probability distribution which shows the probability of class 'y' and class 'not y' (i.e., 1-y).
 
 
-### Batch size
+## Batch size
 
 - Batch Gradient Descent : each batch contains the whole dataset
   - can covnerge to the global minima of the cost function (for convex functions)
