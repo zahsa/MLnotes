@@ -17,7 +17,7 @@
 ### Batch size
 
 - Batch Gradient Descent : each batch contains the whole dataset
--- can covnerge to the global minima of the cost function (for convex functions)
+  - can covnerge to the global minima of the cost function (for convex functions)
   - slow training speed
 - Stochastic Gradient Descent : each batch consists of 1 sample.
 - Mini-batch Gradient Descent : batch size is more than 1 and the less than the whole data
