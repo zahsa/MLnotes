@@ -27,3 +27,6 @@ training advice:
 start with a small batch size and gradually increase it
 
 
+## Momentum
+
+Moving in the direction of gradient guides us sharply towards the local optimum. If a function has a large number of curvatures with different local optima, then moving in the direction of gradient will lead to oscillation and many sudden changes in the direction of movement. Momentum smooths out the path of movement by keeping a small fraction of previous direction.
