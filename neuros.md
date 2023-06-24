@@ -1,7 +1,7 @@
 
 # Neuroscience Notes
 
-## neurons and glia
+## Neurons and glia
 
 - there are approximately equal numbers of neurons and glia in the adult human brain (roughly 85 billion of each type)
 - neurons are responsible for most of the unique functions of the brain. It is the neurons that sense changes in the environment, communicate these changes to other neurons, and command the body’s responses to these sensations.
